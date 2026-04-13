@@ -1,4 +1,4 @@
-# Directed-Graph-Building
+# Directed Graph Building
 
 **Project:** 					  Building a directed graph of IT infrastructure configuration elements connected by parent-child relationships.
 
